@@ -1078,4 +1078,10 @@ input, select, textarea {
 
 		#header nav {
 			padding: 0 1em;
-		} }
+		}
+
+        #header img.logo {
+            width: 100%;
+            height: auto;
+        }
+}
